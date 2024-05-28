@@ -1,0 +1,6 @@
+train: /Users/manojkumar/vscode/assignment/data/coin-dataset/train/images
+val: /Users/manojkumar/vscode/assignment/data/coin-dataset/val/images
+
+# Classes
+names:
+  0: Coin

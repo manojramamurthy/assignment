@@ -1,0 +1,6 @@
+pandas
+opencv-python
+matplotlib
+ultralytics
+fastapi
+python-multipart
